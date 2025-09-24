@@ -1,0 +1,5 @@
+{
+  "name": "Compositor de Moda IA",
+  "description": "Una aplicación para combinar un conjunto de imágenes (escenario, modelo, ropa, accesorio) en una única imagen de alta calidad con estilo publicitario usando IA. Selecciona un estilo fotográfico y genera dos composiciones: una artística y otra expositiva.",
+  "requestFramePermissions": []
+}
